@@ -48,8 +48,8 @@ Users can increment the time by one hour, minute, or second using a menu to sele
 - Stack Overflow
 
 ### What skills from this project will be particularly transferable to other projects or course work? 
-Algorithmic thinking
 
+- Algorithmic thinking
 - Debugging and troubleshooting
 - Writing modular and reusable code
 - Input validation
@@ -59,4 +59,4 @@ Algorithmic thinking
 
 ### How did you make this program maintainable, readable, and adaptable?
 
-- I ensure maintainability and readability by using descriptive variable and function names and organizing code into logical sections. I also wrote comments to explain the Purpose of unctions, Complex Caluculations and Key Logic Decisions
+- I ensure maintainability and readability by using descriptive variable and function names and organizing code into logical sections. I also wrote comments to explain the Purpose of unctions, Complex Caluculations and Key Logic Decisions.
